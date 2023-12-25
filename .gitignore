@@ -1,0 +1,8 @@
+# .gitignore
+__pycache__/
+archive/
+res/
+RESUMEtest/
+RESUMEvalidation/
+.env
+.ipynb_checkpoints/
